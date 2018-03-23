@@ -1,6 +1,6 @@
-# Introduction to Python, November Edition
+# Introduction to Python, March 2018 Edition
 
-This Python Beginner's workshop will be running from 9.30am - 5pm on Tuesday the 14th November, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
+This Python Beginner's workshop will be running from 9.30am - 5pm on Monday the 26th of March, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
@@ -32,16 +32,15 @@ The basic progression for the workshop should be as follows:
 ### Tuesday 14th November
 |Time| Activity|
 |---:|---|
-|9.30am - 10.00am |Letters and Numbers|
-|10:00am - 10.45am |Intro to Jupyter and Python|
+|9.30am - 10.00am |Intro to Jupyter and Python|
+|10:00am - 10.45am |Lists|
 |10.45am - 11.00am|Tea Break|
-|11.00am - 11.30am|Lists|
-|11.30am - 12.00am|Dictionaries|
-|12.00pm - 12.45pm|Conditionals, For Loops|
-|12.45pm - 1.30pm|Lunch Break|
-|1.30pm - 2.30pm|While Loops, Functions|
-|2.30pm - 2.45pm|Tea Break|
+|11.00am - 11.30am|Dictionaries|
+|11.30am - 12.45am|Conditionals, For Loops|
+|12.45pm - 2.00pm|Lunch Break|
+|2.00pm - 2.45pm|While Loops, Functions|
+|2.45pm - 3.00pm|Tea Break|
 |2.45pm - 3.30pm|Functions continued|
-|3.30pm - 3.45pm|Tea Break|
-|3.45pm - 5pm|File I/O and String Manipulations|
+|3.45 pm - 4.00pm|Tea Break|
+|3.45pm - 5pm|Where too next|
 
